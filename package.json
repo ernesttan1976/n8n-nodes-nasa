@@ -1,7 +1,7 @@
 {
   "name": "n8n-nodes-nasa",
   "version": "0.1.0",
-	"description": "n8n node to call NASA's APOD and Mars Rover Photo services.",
+  "description": "n8n node to call NASA's APOD and Mars Rover Photo services.",
   "keywords": [
     "n8n-community-node-package"
   ],
@@ -47,7 +47,7 @@
     "eslint": "^8.56.0",
     "eslint-plugin-n8n-nodes-base": "^1.16.1",
     "gulp": "^4.0.2",
-    "n8n-workflow": "*",
+    "n8n-workflow": "file:/Users/ernest/.nvm/versions/node/v22.12.0/lib/node_modules/n8n/node_modules/n8n-workflow",
     "prettier": "^3.3.2",
     "typescript": "^5.5.3"
   },
